@@ -2198,7 +2198,7 @@ axios.get(`https://api.banghasan.com/domain/nping/${teks}`).then((res) => {
  }
 if (text.includes('.ttp')){
   var teks = text.replace(/.ttp /, '')
-    axios.get(`https://mhankbarbars.herokuapp.com/api/text2image?text=${teks}&apiKey=N2Ws9kp3KTDYtry5Jjyz`).then((res) => {
+    axios.get(`https://mhankbarbars.herokuapp.com/api/text2image?text=${teks}&apiKey=B4w56Fy3WQnfEyUNvQy8`).then((res) => {
       imageToBase64(res.data.result)
         .then(
           (ress) => {
