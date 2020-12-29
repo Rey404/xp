@@ -159,7 +159,7 @@ else if (text == 'Asu'){
 conn.sendMessage(id, 'Lu Asw' ,MessageType.text);
 }
 else if (text == '.owner'){
-conn.sendMessage(id, 'Owner DIL-BOT wa.me/+62 853-4378-8098' ,MessageType.text);
+conn.sendMessage(id, 'Owner 🤡Mr.741L🤡 wa.me/6289677763976' ,MessageType.text);
 }
 else if (text == 'fadil'){
 conn.sendMessage(id, 'Aku BOT nya DIL-BOT' ,MessageType.text);
@@ -231,7 +231,7 @@ else if (text == '.frendsowner'){
 conn.sendMessage(id, 'kawan1 iskandar wa.me/+60136670107' ,MessageType.text);
 }
 else if (text == '.coowner'){
-conn.sendMessage(id, 'kawan2 testing script wa.me/+6282232931618' ,MessageType.text);
+conn.sendMessage(id, 'kawan2 testing script wa.me/6289677763976' ,MessageType.text);
 }
 else if (text == '.groupbot'){
 conn.sendMessage(id, 'group bot whatsapp https://chat.whatsapp.com/GDdd0I3WlF5LnMVifmS7rN' ,MessageType.text);
